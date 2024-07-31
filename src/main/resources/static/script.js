@@ -11,7 +11,7 @@ document.getElementById('gold-price-form').addEventListener('submit', function(e
         })
         .then(data => {
             if (data.status === 'success') {
-                document.getElementById('result').innerText = `O preço de uma grama de ouro em ${currency} está no valor de ${data.price.toFixed(2)}`;
+                document.getElementById('result').innerText = `O preço de um grama de ouro em ${currency} está no valor de ${data.price.toFixed(2)}`;
             } else {
                 document.getElementById('result').innerText = data.status;
             }
