@@ -39,11 +39,11 @@ exchangerate.api.key=SEU_TOKEN_AQUI
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seuusuario/gold-price-service.git
+   git clone https://github.com/Wil-JC-Pimenta/gold-price.git
    ```
 2. Acesse o diretório do projeto:
    ```sh
-   cd gold-price-service
+   cd gold-price
    ```
 3. Configure suas credenciais no `application.properties`.
 4. Compile e execute a aplicação:
@@ -95,7 +95,4 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTH
